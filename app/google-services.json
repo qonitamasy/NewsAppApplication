@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333634555710",
+    "project_id": "newsapplication-7eb36",
+    "storage_bucket": "newsapplication-7eb36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333634555710:android:d7c3437c1cd97a912e266f",
+        "android_client_info": {
+          "package_name": "com.qonita.newsappapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333634555710-2tlrsbaujoptehud1pm0em5qcfiq3sl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhi9OpnMiicFC_dv241YCCKeWQrkbA9LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333634555710-2tlrsbaujoptehud1pm0em5qcfiq3sl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
